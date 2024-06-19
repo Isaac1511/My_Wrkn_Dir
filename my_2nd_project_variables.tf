@@ -3,7 +3,7 @@
 # Define Sub-Id variable. 
 variable "subscription_id" {
   type    = string
-  default = "d40df8e9-d3c9-4a68-8333-af374546254c"
+  default = "enter subscription id here"
 }
 
 # Define Resource Group variable.
