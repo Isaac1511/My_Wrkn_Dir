@@ -9,7 +9,7 @@ variable "subscription_id" {
 # Define Resource Group variable.
 variable "resource_group_name" {
   type    = string
-  default = "anksolrgvk"
+  default = "enter unique rg name"
 }
 
 # Define Location variable.
