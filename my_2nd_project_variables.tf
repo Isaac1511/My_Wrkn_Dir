@@ -75,19 +75,19 @@ variable "nic2" {
 # Define Virtual Machine 1 Credentials.
 variable "admin_name" {
   type    = string
-  default = "adminqtecmai"
+  default = "Enter unique admin username here"
 }
 variable "admin_password" {
   type    = string
-  default = "P@ssword456rV$"
+  default = "Enter unique admin pw here"
 }
 
 # Define Virtual Machine 2 Credentials.
 variable "user_name" {
   type    = string
-  default = "usersqtech"
+  default = "Enter unique admin username here"
 }
 variable "user_password" {
   type    = string
-  default = "Ynae25iasdfas"
+  default = "Enter unique admin pw here"
 }
